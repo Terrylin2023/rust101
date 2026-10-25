@@ -1,6 +1,10 @@
 我是使用MacBook  
 Step 1   
 開啟RUST的官網，複製 `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`  
+
+<img width="728" height="521" alt="Screenshot 2026-10-23 at 20 55 14" src="https://github.com/user-attachments/assets/b926e6b6-d60f-4197-9dbf-9f2aaab5cb7f" />
+<img width="1911" height="728" alt="Screenshot 2026-10-23 at 20 56 39" src="https://github.com/user-attachments/assets/4a663c04-2647-4d6d-ad33-a4661983d407" />
+
 Step 2  
 開啟終端機，貼上剛剛複製的指令，並執行  
 Step 3  
@@ -15,3 +19,5 @@ source ~/.zshrc
 rustc --version  
 cargo --version
 ```
+成功了話，就會看到這樣
+<img width="269" height="32" alt="Screenshot 2026-10-23 at 21 28 19" src="https://github.com/user-attachments/assets/3cd8bea3-1fd2-4600-b1c0-ac75447bcf6e" />
